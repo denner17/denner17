@@ -1,4 +1,7 @@
-## Hi there 👋
+## E aí... eu sou o Denner! 👋
+
+
+<p>Tenho formação em desenvolvimento web. Estou aprimorando meus conhecimentos na linguagem Python👌</p>
 
 <!--
 **denner17/denner17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
