@@ -1,35 +1,22 @@
-
-# E aí... eu sou o Denner! 👋
-
-Sou desenvolvedor Full Stack, também tenho destaque nos projetos de design.
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
-
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/)
-
-
-
-## 🛠 Skills
-
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://twitter.com/)
-
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://twitter.com/)
-
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://twitter.com/)
-
-[![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://twitter.com/)
-
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">I'm a Computer Science student from Brazil with a passion for coding and problem-solving. When I'm not immersed in technology, you'll find me on the track — I'm a track and field athlete, proudly representing SOGIPA, one of Brazil's top athletic clubs.</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/denner-dos-santos-258b37222/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/dennerdossantos_06724" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/denner_04" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
 ###
 
@@ -37,7 +24,7 @@ Sou desenvolvedor Full Stack, também tenho destaque nos projetos de design.
 
 ###
 
-<p align="left">✨ Criaitividade me define...<br>👾 Sou apaixonado por códiigos;<br>🌍 Gosto de aprender novos idiomas e culturas;<br>🎨 Também trabalho com design gráfiico e marketing de conteúdo;<br>🎯 Meu maior objetivio é conquistiar a liberdade geográfica e trabalhar de onde eu estiver.</p>
+<p align="left">✨ Creativity defines me...<br>👾 I'm passionate about coding;<br>🌍 I enjoy learning new languages and exploring different cultures;<br>🎨 I also work with graphic design and content marketing;<br>🎯 My ultimate goal is to achieve geographic freedom and work from anywhere in the world.</p>
 
 ###
 
@@ -46,21 +33,39 @@ Sou desenvolvedor Full Stack, também tenho destaque nos projetos de design.
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/denner17/denner17/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">How I fell when I'm coding...</h2>
+
+###
+
+<br clear="both">
+
+<img align="left" height="160" src="https://media.tenor.com/OKEcyToDLPkAAAAM/dog.gif"  />
+
+###
+
+<img align="left" height="147" src="https://i.pinimg.com/originals/bf/db/f2/bfdbf201adf015e7d64ad093882a6918.jpg"  />
+
+###
+
+<img align="left" height="160" src="https://i.imgflip.com/707bul.png?a480936"  />
 
 ###
