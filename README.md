@@ -48,7 +48,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/denner17/denner17/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
